@@ -1,0 +1,15 @@
+C:\Users\Alejandro\Documents\CodeWars\C#\RemoveDuplicate\bin\Debug\net7.0\RemoveDuplicate.exe
+C:\Users\Alejandro\Documents\CodeWars\C#\RemoveDuplicate\bin\Debug\net7.0\RemoveDuplicate.deps.json
+C:\Users\Alejandro\Documents\CodeWars\C#\RemoveDuplicate\bin\Debug\net7.0\RemoveDuplicate.runtimeconfig.json
+C:\Users\Alejandro\Documents\CodeWars\C#\RemoveDuplicate\bin\Debug\net7.0\RemoveDuplicate.dll
+C:\Users\Alejandro\Documents\CodeWars\C#\RemoveDuplicate\bin\Debug\net7.0\RemoveDuplicate.pdb
+C:\Users\Alejandro\Documents\CodeWars\C#\RemoveDuplicate\obj\Debug\net7.0\RemoveDuplicate.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Documents\CodeWars\C#\RemoveDuplicate\obj\Debug\net7.0\RemoveDuplicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Documents\CodeWars\C#\RemoveDuplicate\obj\Debug\net7.0\RemoveDuplicate.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\CodeWars\C#\RemoveDuplicate\obj\Debug\net7.0\RemoveDuplicate.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\CodeWars\C#\RemoveDuplicate\obj\Debug\net7.0\RemoveDuplicate.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\CodeWars\C#\RemoveDuplicate\obj\Debug\net7.0\RemoveDuplicate.dll
+C:\Users\Alejandro\Documents\CodeWars\C#\RemoveDuplicate\obj\Debug\net7.0\refint\RemoveDuplicate.dll
+C:\Users\Alejandro\Documents\CodeWars\C#\RemoveDuplicate\obj\Debug\net7.0\RemoveDuplicate.pdb
+C:\Users\Alejandro\Documents\CodeWars\C#\RemoveDuplicate\obj\Debug\net7.0\RemoveDuplicate.genruntimeconfig.cache
+C:\Users\Alejandro\Documents\CodeWars\C#\RemoveDuplicate\obj\Debug\net7.0\ref\RemoveDuplicate.dll
